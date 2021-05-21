@@ -10,6 +10,7 @@
 	<name>CounterWebApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
+	
 	<!-- Properties  -->
 	<properties>
 		<jdk.version>1.7</jdk.version>
